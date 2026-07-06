@@ -2,7 +2,7 @@
 
 Build with the Seedream 5.0 Lite API using APIDot: cURL, Node.js, request variants, pricing, and production notes in one GitHub repo.
 
-[Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/seedream-5-0-lite) | [Model Page](https://apidot.ai/models/seedream-5-0-lite) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
+[Try on APIDot](https://apidot.ai/models/seedream-5-0-lite) | [Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/seedream-5-0-lite) | [Pricing](https://apidot.ai/pricing) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
 
 ## Why this repo exists
 
